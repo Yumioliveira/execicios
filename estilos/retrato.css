@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+/*midia em pé*/
+
+body {
+    background: url(../imagens/cev-portrait.jpg);
+    background-position: bottom center;
+    background-repeat: no-repeat;
+}
