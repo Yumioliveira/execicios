@@ -1,23 +1,18 @@
 @charset "UTF-8";
 
-/*estilo geral*/
-
 * {
-    margin: 0px;
     padding: 0px;
+    margin: 0px;
 }
 
 html, body {
     width: 100vw;
     height: 100vh;
-    background-color: rgb(32, 60, 245);
-    background-size: contain;
+    background-color: aquamarine;
     background-repeat: no-repeat;
+    background-size: contain;
 }
 
 h1 {
     color: white;
-    padding: 10px;
-    text-align: center;
 }
-
